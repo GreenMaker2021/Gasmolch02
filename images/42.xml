@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Dataset02</folder>
+	<filename>42.jpg</filename>
+	<path>D:\Docs\2020\00Gas_Molch2020\AI_model\Dataset02\42.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>87</width>
+		<height>84</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>leak</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>19</xmin>
+			<ymin>19</ymin>
+			<xmax>39</xmax>
+			<ymax>70</ymax>
+		</bndbox>
+	</object>
+</annotation>
